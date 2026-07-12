@@ -68,7 +68,3 @@ jupyter notebook
 ```
 
 4. Run all cells from top to bottom.
-
-## Author
-
-Archita kumari
